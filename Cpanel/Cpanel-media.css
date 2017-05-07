@@ -1,0 +1,334 @@
+
+@media screen and (max-width:815px) and (min-width:720px) {
+    
+    .add-new-header-copy a {
+        font-size: 10pt;
+    }   
+    .c-logo-right h2 {
+        font-size: 10pt;
+    }
+}
+@media screen and (max-width:719px) and (min-width:335px) {
+    
+    .add-new-header-copy a {
+        font-size: 10pt;
+    }   
+    .c-logo-right h2 {
+        font-size: 12pt;
+    }
+    .header {
+        overflow: auto;
+    }
+    .c-logo-right {
+        display: block;
+        text-align: center;
+        float: none;
+    }
+}
+@media screen and (max-width:536px) and (min-width:535px)  {
+    
+    
+     .admin-welcome {
+        float: right;
+         
+    }
+    .add-new-header-copy { 
+    float: left; }
+}
+@media screen and (max-width:534px)  {
+    
+    .add-new-header-copy a {
+        font-size: 10pt;
+    }   
+    .c-logo-right h2 {
+        font-size: 12pt;
+    }
+    .header {
+        overflow: auto;
+    }
+    .c-logo-right {
+        display: block;
+        text-align: center;
+        float: none;
+    }
+    
+    .admin-welcome h3 {
+        color: white;
+    font-family: DroidKufi;
+    font-size: 14pt;
+    margin-left: 0px;
+    position: static;
+    display: block;
+        text-align: center;
+        margin-bottom: 0
+   
+    }
+    .admin-welcome span {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .admin-welcome img {
+    position: absolute;
+        left: 0;
+        
+    }
+    .admin-welcome {
+        float: right;
+        width: 100%;
+        position: relative;
+        margin-bottom: 0;
+        margin-top: 0px;
+        
+    }
+    .add-new-header-copy {
+        width: 100%;
+    height: 55px;
+    background-image: url(images/cpanel-black-layer.png);
+    text-align: center;
+    padding: 9px 15px 10px 15px;
+    float: left;
+    margin-right: 0px; 
+    transition: 0.8s ease;
+    margin-bottom: 10px;
+    }
+    .admin-welcome h3 img {
+        display: none;
+    }
+    
+        
+    
+}
+@media screen and (max-width:1199px)  {
+
+    .home-sec-media {
+        width: 28%;
+        text-align: center;
+        overflow: auto;
+        padding-bottom: 30px;
+        padding-right: 0;
+    padding-left: 0;
+        
+    }
+    .home-sec img {
+        float: none;
+        width: 50%;
+        margin-right: 10px;
+        
+    }
+    .home-sec h2 {
+        float: none;
+        margin-right: 0;
+        margin-top: 10px;
+    }
+    .sp1 img {
+        margin-left: 0;
+    }
+    
+}
+@media screen and (max-width:1095px)  {
+    .sec-info h3 {
+        font-size: 10pt
+    }
+}
+
+@media screen and (max-width:929px)  {
+      .home-sec {
+        width: 100%;
+    }
+    .home-sec img {
+        float: none;
+        width: auto;
+    }
+    .home-sections {
+        padding-left: 20px;
+    }
+
+}
+@media screen and (max-width:999px) {
+     .cpanel-right {
+        width: 33%;
+    }
+    .cpanel-left {
+        width: 67%;
+    }
+}
+@media screen and (max-width:768px) {
+         .cpanel-right {
+        width: 100%;
+             margin-bottom: 20px;
+    }
+    .cpanel-left {
+        width: 100%;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .last-post-sign h3 {
+        font-size: 12pt;
+    }
+    .home-sec h2 {
+        font-size: 12pt;
+    }
+    .head h4 {
+        font-size: 12pt;
+    }
+}
+@media screen and (max-width:1200px) {
+    .activity-left {
+        width: 100%;
+    }
+    .activity-right {
+        width: 100%;
+    }
+    .top-articles-home {
+        width: 100%;
+        margin: 0;
+    }
+    .media-home-sections {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .home-movie-name {
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width:950px) {
+    .home-movie-name h3 {
+        font-size: 10pt;
+    }
+    .last-post h3 {
+        font-size: 10pt;
+    }
+}
+@media screen and (max-width:776px) and (min-width:768px) {
+    .home-movie-name h3 {
+        font-size: 9pt;
+    }
+}
+@media screen and (max-width:535px) and (min-width:470px) {
+    .home-movie-name {
+        padding: 15px 10px 15px 20px;
+    }
+}
+@media screen and (max-width:469px) and (min-width:402px) {
+    .home-movie-name {
+        padding: 10px 5px;
+    }
+}
+@media screen and (max-width:401px) {
+    .home-movie-name h3 {
+        line-height: 20px;
+    }
+    .views-home-article span {
+        float: none;
+    }
+    .home-movie-name {
+        min-height: 70px
+    }
+    
+}
+@media screen and (max-width:1030px) {
+    
+    .upload-ad {
+        margin-right: 70px;
+    }
+    .add-source {
+        margin-right: 50px;
+    }
+}
+@media screen and (max-width:999px) { 
+        .upload-ad {
+        margin-right: 10px;
+            margin-left: 10px;
+            width: 97%;
+    }
+    .add-source {
+        margin-right: 10px;
+            margin-left: 10px;
+            width: 97%;
+    }
+}
+@media screen and (max-width:586px) {
+           .upload-ad {
+        margin-right: 10px;
+            margin-left: 10px;
+            width: 94%;
+    }
+    .add-source {
+        margin-right: 10px;
+            margin-left: 10px;
+            width: 94%;
+    }
+    .information-container h3 {
+        font-size: 10pt;
+    }
+}
+@media screen and (max-width:654px) {
+    .watch-server-name input {
+        width: 90%;
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .watch-server-source input {
+          width: 90%;
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .watch-server-add {
+        padding-right: 5px;
+    }
+}
+@media screen and (max-width:500px) {
+    .article-statue h3 {
+        font-size: 12pt;
+    }
+    .add-page-fields-container input {
+        padding-right: 3px;
+    }
+}
+@media screen and (max-width:999px) {
+    .sort {
+        margin-bottom: 10px;
+        width: 46%;
+    }
+}
+@media screen and (max-width:768px) {
+    .sort {
+        margin-bottom: 10px;
+        width: 100%;
+    }
+}
+@media screen and (max-width:1165px) {
+    .edit-article {
+        width: 90%;
+        display: block;
+        margin-left: 30px;
+    }
+    
+    .caterojy-edit {
+        width: 90%;
+        display: block;
+        margin-left: 0px;
+        margin-right: 5px;
+    }
+}
+@media screen and (max-width:768px) and (min-width:450px) {
+    .support-info p {
+        font-size: 12pt;
+    }
+}
+@media screen and (max-width:449px) {
+    .support-info p {
+        font-size: 10pt;
+    }
+}
+@media screen and (max-width:768px) {
+    .pages span, .caterogies span, .members span, .ads span {
+        position: static;
+        width: 100%;
+        margin-top: 15px;
+        display: block;
+        padding-bottom: 1px;
+    }
+}
+
